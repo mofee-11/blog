@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+main {
+  padding-top: 5rem;
+  width: 90%;
+  max-width: 700px;
+  margin-right: auto;
+  margin-left: auto;
+
+  overflow: hidden;
+}
+
+.item {
+  font-size: 1.2rem;
+  margin-block: 0.4rem;
+  padding-left: 6rem;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+.year {
+  margin-block: 2rem;
+  font-size: 5rem;
+}
+
+.month {
+  margin-block: 1rem;
+  font-size: 2rem;
+  padding-left: 4rem;
+}
